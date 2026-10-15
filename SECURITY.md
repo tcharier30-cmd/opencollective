@@ -34,7 +34,7 @@ Only those who meet the following eligibility requirements may receive a monetar
 
 ## Scope
 
-We **won't** accept reports made by testing on our production servers (https://opencollective.com).
+We accept reports made by testing on our production servers (https://opencollective.com).
 
 You must ideally do all the testing locally. See the following links:
 
